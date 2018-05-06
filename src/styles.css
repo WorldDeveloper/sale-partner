@@ -1,0 +1,13 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "~primeng/resources/themes/omega/theme.css";
+@import "~primeng/resources/primeng.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+
+a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+}
